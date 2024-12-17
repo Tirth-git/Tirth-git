@@ -1,6 +1,6 @@
 -👋  Hi my name is Tirth Sharma.
 
-- 👀 I’m interested in Game Development, Python development.
+- 👀 I’m interested in Game Development, Software Engineering, Python development.
   
 - 🌱 I’m currently learning Game development, 3D Modeling, Software Engineering
    
